@@ -5,4 +5,4 @@ Troy Clemmer — software & web engineer / full stack developer
 - 👨🏻 Personal site: [troyclemmer.com](https://troyclemmer.com/)
 - 🏓 Tristen Pickleball: [tristenpickleball.com](https://tristenpickleball.com/)
 - 👻 Laravel UI Library: [ghostui.style](https://ghostui.style/)
-- 🎃 PHP + HTMX Framework: [hollowPHP.com](https://hollowphp.com/)
+- 🎃 PHP, Blade, HTMX Framework: [hollowPHP.com](https://hollowphp.com/)
