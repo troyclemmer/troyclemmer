@@ -12,7 +12,7 @@
 
 > software & web engineer / full stack developer
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/troyclemmer)
+![GitHub Contribution Graph](https://ghchart.rshah.org/7756e1/troyclemmer)
 
 ## Current Projects
 - 💻 **[troyclemmer.dev](https://troyclemmer.dev/)** - Developer site
