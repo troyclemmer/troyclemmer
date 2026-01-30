@@ -29,6 +29,7 @@
 - 🟣 **[Dodge](https://troyclemmer.dev/games/dodge/)** - Action browser game
 - 🪐 **[Job Predictor](https://troyclemmer.dev/games/troyplanet/)** - Tool to create silly names and jobs
 - 🔥 **[Firebird Presort](https://firebirdpresort.com/)** - Website and customer portal for Firebird Presort
+- 🚚 **[C2A Trucking](https://c2atrucking.com/internal/)** - Internal portal for C2A Trucking
 - 📢 **[PBBracketWatcher](https://discord.gg/4THmXwxANR)** - Pickleball tournament score notifier
 
 ## Legacy Projects
